@@ -2,6 +2,15 @@
 
 Una aplicación móvil que permite a los usuarios explorar películas y series, gestionar una lista de favoritos, realizar búsquedas avanzadas, y personalizar la apariencia con un modo oscuro. Desarrollada usando **Kotlin**, **Jetpack Compose**, y siguiendo los principios de **Clean Architecture**, con soporte para **modo offline** y pruebas unitarias en todas las capas.
 
+<!-- Capturas de pantalla -->
+<p align="center">
+  <img src="images/light_mode_list_series.png" alt="Captura 1" width="18%">
+  <img src="images/light_mode_serie_detail.png" alt="Captura 2" width="18%">
+  <img src="images/dark_mode_list_series.png" alt="Captura 3" width="18%">
+  <img src="images/light_mode_movie_detail.png" alt="Captura 4" width="18%">
+  <img src="images/dark_mode_list_movie" alt="Captura 5" width="18%">
+</p>
+
 ## Características
 
 1. **Exploración de Películas y Series**: Los usuarios pueden navegar por un catálogo de películas y series, con información detallada sobre cada contenido.
