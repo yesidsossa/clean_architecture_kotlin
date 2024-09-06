@@ -42,15 +42,14 @@ La aplicación está dividida en varias capas que permiten la separación de res
 3. **Capa de Presentación**: Se encarga de la lógica de interfaz de usuario utilizando **Jetpack Compose**.
 
 Cada capa solo puede interactuar con las capas inferiores, garantizando un flujo de dependencias controlado.
-
-![Clean Architecture](images/clean_diagram.drawio.png)
+- **Arquitectura General**
+  ![Clean Architecture](images/clean_diagram.drawio.png)
 
 ## Structure
 
 A continuación, se muestran los diagramas de la arquitectura y estructura de la aplicación:
 
-- **Arquitectura General**
-  ![Diagrama Arquitectura](images/structure.png)
+![Diagrama Arquitectura](images/structure.png)
 
 ## Tecnologías Utilizadas 🛠
 
