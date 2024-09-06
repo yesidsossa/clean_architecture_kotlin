@@ -75,5 +75,4 @@ A continuación, se muestran los diagramas de la arquitectura y estructura de la
 
 La aplicación cuenta con pruebas unitarias en todas sus capas, garantizando que cada funcionalidad cumpla con las expectativas. Utilizamos herramientas como **Mockito** para las pruebas de mocking, y **JUnit** para validar la lógica de negocio y de datos.
 
-Para generar un reporte de cobertura de pruebas, puedes ejecutar el siguiente comando:
 
