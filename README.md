@@ -45,12 +45,12 @@ Cada capa solo puede interactuar con las capas inferiores, garantizando un flujo
 
 ![Clean Architecture](images/clean_diagram.drawio.png)
 
-## Diagramas
+## Structure
 
 A continuación, se muestran los diagramas de la arquitectura y estructura de la aplicación:
 
 - **Arquitectura General**
-  ![Diagrama Arquitectura](images/clean_diagram.drawio.png)
+  ![Diagrama Arquitectura](images/structure.png)
 
 ## Tecnologías Utilizadas 🛠
 
