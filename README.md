@@ -8,7 +8,7 @@ Una aplicación móvil que permite a los usuarios explorar películas y series, 
   <img src="images/light_mode_serie_detail.png" alt="Captura 2" width="18%">
   <img src="images/dark_mode_list_series.png" alt="Captura 3" width="18%">
   <img src="images/light_mode_movie_detail.png" alt="Captura 4" width="18%">
-  <img src="images/dark_mode_list_movie" alt="Captura 5" width="18%">
+  <img src="images/dark_mode_list_movie.png" alt="Captura 5" width="18%">
 </p>
 
 ## Características
