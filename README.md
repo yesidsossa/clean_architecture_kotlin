@@ -24,9 +24,9 @@ Una aplicación móvil que permite a los usuarios explorar películas y series, 
 9. **Pruebas Unitarias en Todas las Capas**: La aplicación incluye una cobertura exhaustiva de pruebas unitarias para garantizar la calidad del código.
 ## Demo en Video
 
-<p align="center">
-  <iframe src="https://drive.google.com/file/d/13Yx2PPatEKruO9tTK_yTSZ86hq4N-BNt/preview" width="300" height="600" allow="autoplay"></iframe>
-</p>
+[Ver el video de demostración en tamaño de teléfono](https://drive.google.com/file/d/13Yx2PPatEKruO9tTK_yTSZ86hq4N-BNt/view?usp=sharing)
+
+
 ## API
 
 La aplicación consume datos de la API de **The Movie Database** para obtener información actualizada sobre películas y series.
