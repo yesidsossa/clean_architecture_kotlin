@@ -26,6 +26,13 @@ android {
         }
     }
 
+    // Excluye el archivo conflictivo
+    packagingOptions {
+        exclude("mockito-extensions/org.mockito.plugins.MemberAccessor")
+        exclude("mockito-extensions/org.mockito.plugins.MockMaker")  // Excluye el archivo MockMaker
+
+    }
+
 
     namespace = "com.instaleap.core.test"
 }
