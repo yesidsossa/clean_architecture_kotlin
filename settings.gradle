@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+include ':presentation'
+include ':domain'
+include ':data'
+include ':core-test'
