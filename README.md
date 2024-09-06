@@ -22,7 +22,11 @@ Una aplicación móvil que permite a los usuarios explorar películas y series, 
 7. **Auto Sincronización**: Los datos se sincronizan automáticamente cuando hay conexión disponible, utilizando **WorkManager** y **NetworkConnectivityStream**.
 8. **Paginación**: Optimización en la carga de grandes volúmenes de datos, mejorando la experiencia de usuario.
 9. **Pruebas Unitarias en Todas las Capas**: La aplicación incluye una cobertura exhaustiva de pruebas unitarias para garantizar la calidad del código.
+## Demo en Video
 
+<p align="center">
+  <iframe src="https://drive.google.com/file/d/13Yx2PPatEKruO9tTK_yTSZ86hq4N-BNt/preview" width="300" height="600" allow="autoplay"></iframe>
+</p>
 ## API
 
 La aplicación consume datos de la API de **The Movie Database** para obtener información actualizada sobre películas y series.
